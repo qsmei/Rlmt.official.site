@@ -3,4 +3,5 @@ description: For animal and plant breeding!
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
-github:https://github.com/qsmei/Rlmt
+github:
+      repository_url: https://github.com/qsmei/Rlmt
