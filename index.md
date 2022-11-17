@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-View on [Github Pages](https://tomcam.github.io/least-github-pages/)
 
 ### Rlmt: R wrapper of the Linear Mixed Models Toolbox (LMT)
 
